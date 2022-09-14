@@ -1,3 +1,1 @@
-# Python Object Relational Mapping
-
-### Readme will be updated soon...
+Python Object Relational
